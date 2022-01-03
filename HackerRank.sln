@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank", "HackerRank\HackerRank.csproj", "{4FC06558-9897-4D9F-B589-00F0BA07CB2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppForDebug", "ConsoleAppForDebug\ConsoleAppForDebug.csproj", "{02B29298-CD1C-4DE2-B18F-8E5680EC6DA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FC06558-9897-4D9F-B589-00F0BA07CB2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC06558-9897-4D9F-B589-00F0BA07CB2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC06558-9897-4D9F-B589-00F0BA07CB2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC06558-9897-4D9F-B589-00F0BA07CB2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02B29298-CD1C-4DE2-B18F-8E5680EC6DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B29298-CD1C-4DE2-B18F-8E5680EC6DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B29298-CD1C-4DE2-B18F-8E5680EC6DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B29298-CD1C-4DE2-B18F-8E5680EC6DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

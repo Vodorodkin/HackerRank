@@ -1,0 +1,9 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.idea/.idea.HackerRank/.idea/.gitignore
+.idea/.idea.HackerRank/.idea/encodings.xml
+.idea/.idea.HackerRank/.idea/indexLayout.xml
+.idea/.idea.HackerRank/.idea/vcs.xml
